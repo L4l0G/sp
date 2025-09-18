@@ -52,9 +52,5 @@ El uso de una plataforma programable es una parte fundamental para el uso de los
 * MEMS sensors. (s. f.). Bosch Sensortec. https://www.bosch-sensortec.com/about-us/our-company/mems/
 * Forrellad Munné, E. (2017). MEMS Sensor Data Acquisition Framework Based on Arduino Platform (Trabajo de Fin de Grado). Universitat Politècnica de Catalunya. https://upcommons.upc.edu/handle/2117/106686.
 
- ```text
-Asistencia de IA: Se utilizó la IA para obtener fuentes de información acerca del tema abarcado en la investigación.
-Herramienta: ChatGPT (GPT-5)
-Fecha: 17/09/2025
-  ```
+
 
